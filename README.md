@@ -1,5 +1,5 @@
 # Duh/iKee.B iPhone Botnet
-This is a academic restoration of the Duh iPhone BotNet of 2009. 
+This is a academic restoration of the Duh iPhone Botnet of 2009. 
 
 ## Requirements
 * Mac OS X
